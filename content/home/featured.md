@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Featured Publications"
+title = "Research"
 subtitle = ""
 
 [content]
@@ -62,3 +62,15 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+### Public Budgeting and Natural Resource Regulation
+
+Beg, Steal or Borrow: The International Diffusion of Natural Resource Regulations, Working Paper (2019)
+
+Why Do Governments Tie Their Hands? Natural Resources, Public Budgets, and Voter Demands, Working Paper (2019)
+
+### Democratic Transitions in Latin America
+
+Between Truth and Amnesia: State Terrorism, Human Rights Violations and Transitional Justice in Brazil, [European Review of Latin American and Caribbean Studies](http://doi.org/10.18352/erlacs.8395) (2013)
+
+Zwischen Wahrheit und Amnesie. Die schwierige Aufarbeitung der Militärdiktatur in Brasilien, [Ibero-Analysen](http://www.iai.spk-berlin.de/fileadmin/dokumentenbibliothek/Ibero-Analysen/Ibero_Analysen_25.pdf) (2012)
