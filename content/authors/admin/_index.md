@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-I am PhD candidate in the [Department of Government](http://www.utexas.edu/cola/government/) at the [University of Texas at Austin](https://www.utexas.edu). My dissertation examines how governments allocate revenue from natural resources like oil, natural gas, and mining. More generally, I use formal and statistical models to understand why and when policymakers tie their own hands: instead of manipulating public spending for electoral gain, some rulers are willing to constrain their own discretion to allocate resource wealth. 
+I am PhD candidate in the [Department of Government](http://www.utexas.edu/cola/government/) at the [University of Texas at Austin](https://www.utexas.edu). My dissertation examines how governments allocate revenue from natural resources like oil, natural gas, and mining. I use formal and statistical models to understand why, when, and how policymakers commit to constraining themselves, instead of spending resource rents at will. More generally, my research is driven by the desire to understand how natural resource wealth can be managed responsibly for the long-term benefit of society.
 
 Before coming to Texas, I studied political science and Latin American studies at the [Free University of Berlin](https://www.fu-berlin.de/en/index.html). I was born in Brazil and named Iasmin (rather than the more traditional variant Yasmin) because Y was not a letter of the [Portuguese alphabet](https://en.wikipedia.org/wiki/Portuguese_orthography) at the time.
