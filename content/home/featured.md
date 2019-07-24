@@ -69,7 +69,7 @@ Beg, Steal or Borrow: The International Diffusion of Natural Resource Regulation
 
 Why Do Governments Tie Their Hands? Natural Resources, Public Budgets, and Voter Demands, Working Paper (2019)
 
-Mineral Spirits: The Effect of Natural Resources on the Preferences of Financial Markets (with [Stephen Kaplan](stephenbkaplan.com/)), Working Paper (2019)
+Mineral Spirits: The Effect of Natural Resources on the Preferences of Financial Markets (with [Stephen Kaplan](http://www.stephenbkaplan.com/)), Working Paper (2019)
 
 ### Democratic Transitions in Latin America
 
