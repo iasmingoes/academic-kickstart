@@ -31,7 +31,7 @@ education:
     year: expected 2021
   - course: MS Statistics
     institution: University of Texas at Austin
-    year: expected 2019
+    year: 2019
   - course: MA Latin American Studies
     institution: Free University of Berlin
     year: 2015
@@ -71,4 +71,4 @@ user_groups:
 
 I am PhD candidate in the [Department of Government](http://www.utexas.edu/cola/government/) at the [University of Texas at Austin](https://www.utexas.edu). My dissertation examines how governments allocate revenue from natural resources like oil, natural gas, and mining. I use formal and statistical models to understand why, when, and how policymakers commit to constraining themselves, instead of spending resource rents at will. More generally, my research is driven by the desire to understand how natural resource wealth can be managed responsibly for the long-term benefit of society.
 
-Before coming to Texas, I studied political science and Latin American studies at the [Free University of Berlin](https://www.fu-berlin.de/en/index.html). I was born in Brazil and named Iasmin (rather than the more traditional variant Yasmin) because Y was not a letter of the [Portuguese alphabet](https://en.wikipedia.org/wiki/Portuguese_orthography) at the time.
+At UT, I also received an MS in Statistics from the [Department of Statistics and Data Sciences](https://stat.utexas.edu/). Before coming to Texas, I studied political science and Latin American studies at the [Free University of Berlin](https://www.fu-berlin.de/en/index.html). I was born in Brazil and named Iasmin (rather than the more traditional variant Yasmin) because Y was not a letter of the [Portuguese alphabet](https://en.wikipedia.org/wiki/Portuguese_orthography) at the time.

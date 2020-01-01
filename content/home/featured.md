@@ -65,11 +65,15 @@ subtitle = ""
 
 ### Public Budgeting and Natural Resource Regulation
 
-Beg, Steal or Borrow: The International Diffusion of Natural Resource Regulations, Working Paper (2019)
+Can International Actors Influence Domestic Legislation? Evidence from Natural Resource Funds and the IMF, Working Paper (2020)
 
-Why Do Governments Tie Their Hands? Natural Resources, Public Budgets, and Voter Demands, Working Paper (2019)
+Why Do Governments Tie Their Hands? Natural Resources, Public Budgets, and Voter Demands, Working Paper (2020)
 
-Mineral Spirits: The Effect of Natural Resources on the Preferences of Financial Markets (with [Stephen Kaplan](http://www.stephenbkaplan.com/)), Working Paper (2019)
+Mineral Spirits: The Political Economy of Global Finance and Natural Resource Wealth in Latin America (with [Stephen Kaplan](http://www.stephenbkaplan.com/)), Working Paper (2020)
+
+### Natural Language Processing
+
+Modeling Text in Time and Space (with [Daniel Weitzel](http://danweitzel.github.io/), Kai Feng, Vera Liu, [Abhra Sarkar](https://abhrastat.github.io/), Chandra Shekhar, and [Peter Mueller](https://web.ma.utexas.edu/users/pmueller/)), Working paper (2020)
 
 ### Democratic Transitions in Latin America
 
