@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Research"
-  url = "#featured"
+  url = "#publications"
   weight = 20
 
 # Link to a PDF of your resume/CV from the menu.
@@ -30,8 +30,8 @@
   url = "files/cv.pdf"
   weight = 30
 
- [[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 40
+# [[main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 40
 

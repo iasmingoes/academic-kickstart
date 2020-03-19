@@ -1,32 +1,35 @@
 +++
-# A Featured Publications section created with the Featured Content widget.
-# This section displays publications from `content/publication/` which have
-# `featured = true` in their front matter.
+# A Recent Publications section created with the Pages widget.
+# This section displays recent blog posts from `content/featured/`.
 
-widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Research"
+title = "Published"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  # Choose how many pages you would like to display (0 = all pages)
+  count = 5
+  
+  # Choose how many pages you would like to offset by
+  offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "Published"
     category = ""
     publication_type = ""
-  
+    exclude_featured = false
+
 [design]
   # Toggle between the various page layout types.
   #   1 = List
@@ -40,7 +43,7 @@ subtitle = ""
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-  
+    
   # Background color.
   # color = "navy"
   
@@ -63,20 +66,6 @@ subtitle = ""
  css_class = ""
 +++
 
-### Public Budgeting and Natural Resource Regulation
-
-Can International Actors Influence Domestic Legislation? Evidence from Natural Resource Funds and the IMF, Working Paper (2020)
-
-Why Do Governments Tie Their Hands? Natural Resources, Public Budgets, and Voter Demands, Working Paper (2020)
-
-Mineral Spirits: The Political Economy of Global Finance and Natural Resource Wealth in Latin America (with [Stephen Kaplan](http://www.stephenbkaplan.com/)), Working Paper (2020)
-
-### Natural Language Processing
-
-Modeling Text in Time and Space (with [Daniel Weitzel](http://danweitzel.github.io/), Kai Feng, Vera Liu, [Abhra Sarkar](https://abhrastat.github.io/), Chandra Shekhar, and [Peter Mueller](https://web.ma.utexas.edu/users/pmueller/)), Working paper (2020)
-
-### Democratic Transitions in Latin America
-
-Between Truth and Amnesia: State Terrorism, Human Rights Violations and Transitional Justice in Brazil, [European Review of Latin American and Caribbean Studies](http://doi.org/10.18352/erlacs.8395) (2013)
-
-Zwischen Wahrheit und Amnesie. Die schwierige Aufarbeitung der Militärdiktatur in Brasilien, [Ibero-Analysen](http://www.iai.spk-berlin.de/fileadmin/dokumentenbibliothek/Ibero-Analysen/Ibero_Analysen_25.pdf) (2012)
+{{% alert note %}}
+Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+{{% /alert %}}
