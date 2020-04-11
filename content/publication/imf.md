@@ -1,12 +1,12 @@
 +++
-title = "The Influence of International Organizations on Domestic Legislation: Evidence from Natural Resource Funds and the IMF"
+title = "Examining the Effect of IMF Conditionality on Natural Resource Policy"
 
 # Page features
 share =  false 
 
 
 # Date first published.
-date = "2020-03-13"
+date = "2020-04-01"
 
 # Authors. Comma separated list, e.g.
 authors = ["Iasmin Goes"]

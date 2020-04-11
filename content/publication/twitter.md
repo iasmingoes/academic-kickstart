@@ -1,5 +1,5 @@
 +++
-title = "What We Talk About When We Talk About Politics: Measuring the Content of UK Election Campaigns Using Twitter Data"
+title = "Modeling Text in Time and Space"
 
 # Page features
 share =  false 

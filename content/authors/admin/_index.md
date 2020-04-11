@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD Government
     institution: University of Texas at Austin
-    year: expected 2021
+    year: expected 2020
   - course: MS Statistics
     institution: University of Texas at Austin
     year: 2019
